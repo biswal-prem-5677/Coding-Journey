@@ -21,3 +21,20 @@ This module implements a basic Markov Decision Process (MDP) and solves it using
 * Policy Iteration
 * Q-Learning
 * Deep Q Networks (DQN)
+
+
+
+## Added: Policy Iteration
+
+Implemented full Policy Iteration pipeline:
+
+* Policy Evaluation
+* Policy Improvement
+* Convergence detection
+
+### Comparison
+
+| Method           | Approach                    |
+| ---------------- | --------------------------- |
+| Value Iteration  | Direct optimization         |
+| Policy Iteration | Iterative policy refinement |
