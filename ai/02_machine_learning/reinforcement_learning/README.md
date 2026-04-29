@@ -55,3 +55,24 @@ No need for transition probabilities (model-free learning)
 ### Next Target
 
 Deep Q Networks (DQN)
+
+
+## Added: Deep Q Network (DQN)
+
+Features:
+
+* Neural network-based Q-function
+* Experience replay buffer
+* Target network stabilization
+
+### Tech Stack
+
+* PyTorch
+* Reinforcement Learning
+* Deep Learning
+
+### Next Evolution
+
+* Double DQN
+* Dueling DQN
+* PPO (Policy Gradient)
