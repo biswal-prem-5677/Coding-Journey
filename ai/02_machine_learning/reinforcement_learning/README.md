@@ -38,3 +38,20 @@ Implemented full Policy Iteration pipeline:
 | ---------------- | --------------------------- |
 | Value Iteration  | Direct optimization         |
 | Policy Iteration | Iterative policy refinement |
+
+
+## Added: Q-Learning (Model-Free RL)
+
+Implemented:
+
+* Q-table learning
+* Epsilon-greedy strategy
+* Temporal Difference (TD) update
+
+### Key Advantage
+
+No need for transition probabilities (model-free learning)
+
+### Next Target
+
+Deep Q Networks (DQN)
