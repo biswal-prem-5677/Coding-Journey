@@ -77,6 +77,22 @@ Features:
 * Dueling DQN
 * PPO (Policy Gradient)
 
+## Added: Policy Gradient (REINFORCE)
+
+* Direct policy optimization
+* Log-probability gradient update
+* Foundation of PPO
+
+### Why This Matters
+
+Bridges:
+Q-learning → Actor-Critic → PPO
+
+### Limitation
+
+High variance → solved by PPO
+
+
 ## Added: PPO (Policy Gradient RL)
 
 Features:
