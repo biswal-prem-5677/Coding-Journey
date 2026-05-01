@@ -76,3 +76,28 @@ Features:
 * Double DQN
 * Dueling DQN
 * PPO (Policy Gradient)
+
+## Added: PPO (Policy Gradient RL)
+
+Features:
+
+* Actor-Critic architecture
+* Clipped objective function
+* Stable policy updates
+
+### Why This Matters
+
+PPO is used in real-world RL systems due to its stability and performance.
+
+### Covered Concepts
+
+* Policy gradients
+* Advantage estimation
+* Clipped surrogate objective
+
+### Next Steps
+
+* Generalized Advantage Estimation (GAE)
+* Continuous action spaces
+* RL environments (Gymnasium)
+
